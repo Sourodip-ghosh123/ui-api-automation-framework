@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500,
+    "cucumberautocomplete.steps": ["src/test/java/**/*.java"],
+    "cucumberautocomplete.syncfeatures": "src/test/resources/**/*.feature",
+    "java.project.referencedLibraries": ["lib/**/*.jar"]
+  }
+  

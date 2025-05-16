@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Debug TestRunner",
+        "request": "launch",
+        "mainClass": "com.automation.runners.TestRunner",
+        "projectName": "ui-api-automation-framework"
+      }
+    ]
+  }
+  
